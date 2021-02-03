@@ -1,0 +1,11 @@
+{
+    "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "piedsfort": "Droitier",
+      "nationnalite": "Brazil",
+      "equipeID": 1
+    }
+  ]
+}
